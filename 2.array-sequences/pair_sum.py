@@ -15,10 +15,6 @@ would return 2 pairs:
 NOTE: FOR TESTING PURPOSES CHANGE YOUR FUNCTION SO IT OUTPUTS THE NUMBER OF PAIRS
 """
 
-"""
-RUN THIS CELL TO TEST YOUR SOLUTION
-"""
-
 from nose.tools import assert_equal
 
 
